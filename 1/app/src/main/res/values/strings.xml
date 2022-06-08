@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Game1</string>
+    <string name="player1">Ходит: крестик</string>
+    <string name="player2">Ходит: нолик</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="title_off_game">Крестики и нолики</string>
+    <string name="win_x">Выиграл крестик!</string>
+    <string name="win_o">Выиграл нолик!</string>
+    <string name="win_no">Ничья!</string>
+    <string name="button_again_text">Начать заново</string>
+</resources>
